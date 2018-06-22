@@ -1,4 +1,3 @@
-filetype plugin indent on
 syntax on
 
 "Tabs and Spaces
@@ -8,7 +7,7 @@ set expandtab       "convert <TAB>s to spaces
 
 "UI Config
 "set number         "show line numbers
-"set showcmd        "show last command
+set showcmd         "show last command
 "set cursorline     "highlight current line
 
 "Search
