@@ -1,8 +1,8 @@
 syntax on
 
 "Tabs and Spaces
-set tabstop=4       "number of visual spaces per <TAB> character
-set softtabstop=4   "number of spaces inserted by pressing tab when editing
+set tabstop=2       "number of visual spaces per <TAB> character
+set softtabstop=2   "number of spaces inserted by pressing tab when editing
 set expandtab       "convert <TAB>s to spaces
 
 "UI Config

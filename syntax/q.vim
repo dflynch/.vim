@@ -44,6 +44,7 @@ syn keyword qFunction distinct
 syn keyword qFunction dsave
 syn keyword qFunction each
 syn keyword qFunction ej
+syn keyword qFunction ema
 syn keyword qFunction eval
 syn keyword qFunction except
 syn keyword qFunction fby

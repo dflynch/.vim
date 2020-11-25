@@ -99,7 +99,6 @@ syn keyword kPrimitive delete
 syn keyword kPrimitive dev
 syn keyword kPrimitive div
 syn keyword kPrimitive do
-syn keyword kPrimitive ema
 syn keyword kPrimitive enlist
 syn keyword kPrimitive exec
 syn keyword kPrimitive exit
@@ -115,16 +114,12 @@ syn keyword kPrimitive log
 syn keyword kPrimitive max
 syn keyword kPrimitive min
 syn keyword kPrimitive prd
-syn keyword kPrimitive reval
-syn keyword kPrimitive scov
-syn keyword kPrimitive sdev
 syn keyword kPrimitive select
 syn keyword kPrimitive setenv
 syn keyword kPrimitive sin
 syn keyword kPrimitive sqrt
 syn keyword kPrimitive ss
 syn keyword kPrimitive sum
-syn keyword kPrimitive svar
 syn keyword kPrimitive tan
 syn keyword kPrimitive update
 syn keyword kPrimitive var
@@ -233,6 +228,7 @@ syn keyword qLib \.q\.distinct
 syn keyword qLib \.q\.dsave
 syn keyword qLib \.q\.each
 syn keyword qLib \.q\.ej
+syn keyword qLib \.q\.ema
 syn keyword qLib \.q\.eval
 syn keyword qLib \.q\.except
 syn keyword qLib \.q\.fby
@@ -343,6 +339,7 @@ syn keyword qLib \.q\.xlog
 syn keyword qLib \.q\.xprev
 syn keyword qLib \.q\.xrank
 syn keyword qLib \.Q\.A
+syn keyword qLib \.Q\.Aa
 syn keyword qLib \.Q\.Cf
 syn keyword qLib \.Q\.IN
 syn keyword qLib \.Q\.L
@@ -357,6 +354,7 @@ syn keyword qLib \.Q\.a1
 syn keyword qLib \.Q\.a2
 syn keyword qLib \.Q\.addmonths
 syn keyword qLib \.Q\.addr
+syn keyword qLib \.Q\.ajf0
 syn keyword qLib \.Q\.an
 syn keyword qLib \.Q\.b6
 syn keyword qLib \.Q\.bv
