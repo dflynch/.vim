@@ -1,9 +1,11 @@
 syntax on
+filetype plugin indent on
 
 "Tabs and Spaces
+set expandtab       "convert <TAB>s to spaces
 set tabstop=2       "number of visual spaces per <TAB> character
 set softtabstop=2   "number of spaces inserted by pressing tab when editing
-set expandtab       "convert <TAB>s to spaces
+set shiftwidth=2    "number of spaces used for each step of (auto)indent
 
 "UI Config
 "set number         "show line numbers
